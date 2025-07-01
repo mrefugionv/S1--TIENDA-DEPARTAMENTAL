@@ -26,7 +26,7 @@ El uso de ciclos for nos permite ciclar alguna tarea repetitiva en un solo bloqu
 * Manejo de listas :
 ** Organizar de manera ascendente y descendente. Método: .sort()
 ** Funciones de agregación básica: sum() , max(), min(), len()
-** Acceso a elementos: lista[i],  lista_de_listas[r][c]
+** Acceso a elementos: lista[i],  lista_anidada[r][c]
 
 * Uso de cadenas formateadas: f"..{}..."
 * Aplicación ciclo for
