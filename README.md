@@ -1,5 +1,5 @@
 # S1--TIENDA-DEPARTAMENTAL
-S1-Evaluación de calidad de datos de una base de datos de tienda departamental con funciones básicas de python 
+Evaluación de calidad de datos de una base de datos de tienda departamental con funciones básicas de python 
 
 ## Descripción
 Como parte del equipo de análisis, lo primero que debes hacer es evaluar la calidad de una muestra de datos recopilados.
